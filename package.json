@@ -1,14 +1,14 @@
 {
-    "name": "runner",
+    "name": "runner-haucn6",
     "version": "4.0.1",
     "description": "Simple task runner.",
     "author": {
         "name": "Stanislav Kalashnik",
-        "email": "darkpark.main@gmail.com"
+        "email": "haucn6@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/runner/runner.git"
+        "url": "git://github.com/Truonghau/runner-haucn6.git"
     },
     "bin": {
         "runner": "./bin/cli.js"
