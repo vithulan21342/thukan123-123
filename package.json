@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/Truonghau/runner-haucn6.git"
+        "url": "https://github.com/Truonghau/runner-haucn6.git"
     },
     "bin": {
         "runner": "./bin/cli.js"
